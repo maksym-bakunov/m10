@@ -3,7 +3,7 @@ package org.example.calculate.impl;
 public enum CalculationTypes {
     MIN("Min value", 1, true),
     MAX("Max value", 2, true),
-    SUM("Sum", 3, false),
+    SUM("Sum", 3, true),
     AVG("Avg. value", 4, true),
     MEDIAN("Median value", 5, true),
     POSITION_MAX_SEQ_ASC("Sequence starting position (asc)", 6, false),
