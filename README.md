@@ -7,7 +7,7 @@
   <a href="#how-to-use">Как использовать</a> •
 </p>
 
-## Used technologies
+## Испоьзуемые технологии
 
 - Java 17
 - Maven
